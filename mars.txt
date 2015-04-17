@@ -1,3 +1,4 @@
 Cold and dry,
 This is the second line
 This is third line  
+making a conflict
